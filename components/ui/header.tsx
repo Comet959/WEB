@@ -25,7 +25,7 @@ export default function Header() {
             Jerry Yang
           </h1>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            Web3 && 数字游民 🇨🇳
+            Here is Jerry's Zone. Welcome! 🇨🇳
           </p>
         </div>
         <a
