@@ -66,7 +66,7 @@ export default function Footer() {
         </ul>
         {/* Copyright notes */}
         <p className="text-sm text-gray-400 dark:text-gray-600">
-          &copy; Jordan Walker. All rights reserved.
+          &copy; Jerry Yang. All rights reserved.
         </p>
       </div>
     </footer>

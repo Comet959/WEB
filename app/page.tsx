@@ -6,18 +6,18 @@ import Recommendations from "@/components/Recommendations";
 import Newsletter from "@/components/Newsletter";
 
 export const metadata = {
-  title: "Home - DevFolio",
-  description: "Page description",
+  title: "Home - Jerry",
+  description: "A Blog about Jerry.",
 };
 
 export default async function Home() {
   return (
     <>
-      <Experience />
+      {/* <Experience /> */}
       <Tutorials />
       <Articles />
-      <SideHustles />
-      <Recommendations />
+      {/* <SideHustles /> */}
+      {/* <Recommendations /> */}
       <Newsletter />
     </>
   );

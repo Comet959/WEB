@@ -1,8 +1,8 @@
 import ThemeToggle from "./theme-toggle";
 import Image from "next/image";
-import UserImg from "@/public/images/user-image.jpg";
+import UserImg from "@/public/images/user.jpeg";
 import HeaderImg01 from "@/public/images/header-image-01.jpg";
-import HeaderImg02 from "@/public/images/header-image-02.jpg";
+import HeaderImg02 from "@/public/images/header-image-00.jpg";
 import HeaderImg03 from "@/public/images/header-image-03.jpg";
 
 export default function Header() {
@@ -17,15 +17,15 @@ export default function Header() {
           src={UserImg}
           width={48}
           height={48}
-          alt="Jordan Walker"
+          alt="Jerry Yang"
           priority
         />
         <div className="mb-5">
           <h1 className="font-inter-tight font-bold text-gray-800 dark:text-gray-100 text-2xl mb-1">
-            Jordan Walker
+            Jerry Yang
           </h1>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            Frontend developer and community builder from NYC 🇺🇸
+            Web3 && 数字游民 🇨🇳
           </p>
         </div>
         <a
