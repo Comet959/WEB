@@ -14,6 +14,11 @@ export default function Tutorials() {
       link: "#0",
       image: Thumbnail02,
     },
+    {
+      title: "Learn SwiftUI in 2024",
+      link: "#0",
+      image: Thumbnail01,
+    },
   ];
 
   return (
